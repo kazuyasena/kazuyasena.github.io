@@ -4,13 +4,15 @@ title: About Me
 permalink: /about/
 ---
 
-Hello, I'm Galih Yudhasena.
+Hello, you can call me Sena.
     
-I think I'm a blog writer, graphic designer, and content creator. Well... I just love to create something on the internet 😁.
+What do I do? Well... I just love to create something on the internet 😁.
+
+My skill set for professional work are Graphic Design, Content Writing, User Interface Design, and Social Media Specialist.
 
 In this blog I will write various topic that interest me.
 
-You can find me on <b><u><a href="https://twitter.com/galih2d">Twitter</a></u></b>, <b><u><a href="https://www.instagram.com/galih2d/">Instagram</a></u></b>, and <b><u><a href="https://www.goodreads.com/user/show/60249454-galih"> Goodreads </a></u></b>.
+You can find me on <b><u><a href="https://twitter.com/senamaru2d">Twitter</a></u></b> and <b><u><a href="https://www.instagram.com/senamaru2d/">Instagram</a></u></b>
 
 <!-- If you have any help with your project feel free to contact me. I can help you with...
 
