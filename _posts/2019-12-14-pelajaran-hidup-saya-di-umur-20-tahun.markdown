@@ -2,13 +2,11 @@
 layout: post
 title:  "Pelajaran Hidup yang Saya Dapat ketika Memasuki Usia 20 Tahun"
 date:   2019-12-14 07:15:29 +0700
-author: Galih Yudhasena
+author: Sena
 ---
-Usia 20 bisa dikatakan adalah masa-masa peralihan dalam hidup. Maksud saya, masa peralihan dari remaja menuju dewasa. 
-
 Di usia yang menginjak 20 ini, saya mulai menemukan sudut pandangan baru dan pelajaran berharga mengenai kehidupan, terutama ketika saya berada di kuliah.
 
-Nah, berikut beberapa diantaranya…
+Supaya nggak lupa, saya tuliskan di sini…
 
 <h2>Pelajaran Hidup yang Saya Dapat ketika Memasuki Usia 20 Tahun</h2>
 

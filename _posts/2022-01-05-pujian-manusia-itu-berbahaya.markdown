@@ -2,7 +2,7 @@
 layout: post
 title:  "Pujian Manusia itu Berbahaya"
 date:   2022-01-05 07:15:29 +0700
-author: Galih Yudhasena
+author: Sena
 image: /assets/images/logo.png
 ---
 

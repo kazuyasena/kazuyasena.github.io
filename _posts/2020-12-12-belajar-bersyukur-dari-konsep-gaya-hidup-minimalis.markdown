@@ -2,7 +2,7 @@
 layout: post
 title:  "Belajar Bersyukur dari Konsep Gaya Hidup Minimalis"
 date:   2020-12-12 07:15:29 +0700
-author: Galih Yudhasena
+author: Sena
 ---
 Gaya hidup minimalis seakan-akan hanya ditujukan kepada mereka, orang-orang kaya yang sudah jenuh akan materi.
 

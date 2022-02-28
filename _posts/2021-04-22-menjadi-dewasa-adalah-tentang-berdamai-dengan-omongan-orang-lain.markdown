@@ -2,7 +2,7 @@
 layout: post
 title:  "Menjadi Dewasa adalah Berdamai dengan Omongan Orang Lain"
 date:   2021-04-22 07:15:29 +0700
-author: Galih Yudhasena
+author: Sena
 ---
 Punya badan yang kurang ideal, sering dikata-katain? Punya wajah pas-pasan, sering dijadiin bahan candaan yang bikin sakit hati?
 

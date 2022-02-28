@@ -2,7 +2,7 @@
 layout: post
 title:  "8 Alasan Mengapa Microblog di Instagram Menjadi Populer Sekarang Ini"
 date:   2020-02-08 18:15:29 +0700
-author: Galih Yudhasena
+author: Sena
 ---
 Kalau kamu pengguna Instagram seperti saya, pastinya akhir-akhir ini sering menemukan dan melihat konten-konten microblog.
 
@@ -19,8 +19,6 @@ Sejauh pemahaman saya, setidaknya ada 8 alasan mengapa microblog sekarang menjad
 Berikut uraian singkatnya.
 
 <h2>Alasan Mengapa Microblog di Indonesia Sedang Tren dan Kamu Perlu Ikutan Juga</h2>
-
-<img src="https://drive.google.com/uc?export=view&id=1Q5jGhNEwOSVLLiRMSOM_9Fx7bgtuMK9x" alt="8 Alasan Mengapa Microblog di Instagram Menjadi Populer Sekarang Ini">
 
 <h3>1. Banyak yang bosan di rumah karena pandemi</h3>
 
@@ -103,18 +101,6 @@ Microblog juga bisa dijadikan tempat untuk meningkatkan kredibilitas kita dalam 
 Ahli pemrograman? Buatlah konten seputar pemrograman. Dengan begitu mereka dapat melihatmu sebagai seorang mentor atau panutan yang memang ahli dibidangnya.
 
 Apabila konten yang dibuat memang informatif dan bermanfaat ini akan meningkatkan kredibilitas dirimu pada profesi yang sedang kamu geluti.
-
-Apakah kamu tertarik mencobanya juga?
-
-Kalau iya dan kamu bingung nggak tahu harus mulai dari mana, kamu bisa ikut <u><a href="https://www.mudacumasekali.com/ighackogut1?partner=saatkuliah" target="blank">kelas online membangun microblog personal branding di Instagram</a></u>.
-
-Di situ kamu akan mendapatkan materi step by step bagaimana membuat personal branding yang disukai pembaca dari 0 hingga cara mendapatkan penghasilan. 
-
-Jangan salah, membuat sebuah personal branding di Instagram nggak sembarang hanya buat akun, lalu kamu menulis konten sebanyak-banyaknya. Bukan begitu.
-
-Banyak hal yang perlu kamu pelajari terlebih dahulu, seperti riset marketnya seperti apa, apakah tema yang akan ditulis bisa cocok dengan marketnya nanti, cara membuat caption yang rapih, cara membuat bio yang mengundang, hingga cara membaca analytic Instagram.
-
-Kalau kamu ingin mendaftar kelasnya atau mau membaca dahulu apa saja benefit yang akan di dapat, kamu cukup <u><a href="https://bit.ly/igbranding-1" target="blank">klik di sini</a></u>.
 
 Nah, bagaimana nih? 
 

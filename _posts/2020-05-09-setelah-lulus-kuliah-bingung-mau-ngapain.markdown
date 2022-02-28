@@ -2,7 +2,7 @@
 layout: post
 title:  "Setelah Lulus Kuliah Bingung Mau Ngapain? Jadi Content Writer Aja"
 date:   2020-09-05 09:15:29 +0700
-author: Galih Yudhasena
+author: Sena
 ---
 Apakah saat ini kamu sedang kehilangan arah di kuliah karena merasa salah jurusan? Atau kamu saat ini baru saja lulus dari kuliah, tapi masih bimbang ingin berkarier menjadi apa?
 
@@ -22,8 +22,6 @@ Apakah profesi ini bisa memiliki prospek yang oke ke depannya?
 Yuk, simak pembahasannya berikut ini.
 
 <h2>Keuntungan Menjadi Content Writer di Era Digital</h2>
-
-<img src="https://drive.google.com/uc?export=view&id=18Z-gwvG24CB7FAbnbagwAllSRR9ZgOdO" alt="Setelah Lulus Kuliah Bingung Mau Ngapain? Jadi Content Writer Aja">
 
 <h3>1. Profesi yang mudah untuk beradaptasi</h3>
 
@@ -91,15 +89,4 @@ Enak banget kan ya, bisa berprofesi dimana saja tanpa perlu mengorbankan waktu b
 
 Nah, jadi bagaimana?
 
-Apakah kamu sudah tertarik untuk mulai menjadi seorang Content Writer?
-
-Kalau iya dan kamu baru mau belajar menjadi seorang Content Writer, coba deh dimulai dengan membuat sebuah blog.
-
-Kamu bisa menulis di blog gratisan seperti di blogspot.com atau wordpress.com.
-Hanya saja ketika ingin terlihat lebih profesional, kamu diwajibkan untuk membeli domain. Terutama domain .com.
-
-Salah satu website yang bisa saya rekomendasikan untuk membeli domain yang aman adalah <u><a href="https://panel.niagahoster.co.id/ref/243071">Niagahoster</a></u>.
-
-Saya beberapa kali membeli domain dan hosting di situ. Karena dari user experience websitenya dan after sales servicenya yang bagus jadi saya bisa merekomendasikannya.
-
-Selamat berlatih menjadi Content Writer!
+Apakah kamu sudah tertarik untuk mulai menjadi seorang Content Writer?s

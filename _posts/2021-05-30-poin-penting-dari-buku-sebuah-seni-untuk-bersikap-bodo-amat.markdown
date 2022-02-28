@@ -2,10 +2,10 @@
 layout: post
 title:  "8 Hal yang Saya Pelajari dari Buku 'Sebuah Seni untuk Bersikap Bodo Amat' "
 date:   2021-05-30 05:15:29 +0700
-author: Galih Yudhasena
+author: Sena
 image: /assets/images/buku-seni-untuk-bersikap-bodo-amat.jpg
 ---
-Banyak yang merekomendasikan buku ini karena katanya sih relate banget dengan kehidupan kita. Terutama untuk orang-orang yang sulit fokus dalam menjalani kehidupan.
+Banyak yang merekomendasikan buku ini karena katanya sih relate banget dengan hidup kita. Terutama untuk orang-orang yang sulit fokus dalam menjalani kehidupan.
 
 Karena tertarik, saya akhirnya memutuskan untuk membeli buku Sebuah Seni untuk Bersikap Bodo Amat karya Mark Manson ini melalui situs marketplace. Yang saya beli adalah versi Bahasa Indonesia, tentunya karena lebih murah hehehe.
 

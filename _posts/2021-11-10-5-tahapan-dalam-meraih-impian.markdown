@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Tahapan dalam Meraih Impian"
 date:   2021-11-10 12:15:29 +0700
-author: Galih Yudhasena
+author: Sena
 image: /assets/images/5-tahapan-dalam-mengejar-impian.png
 ---
 Apa yang diperlukan agar kita menjadi atau mencapai sesuatu? 
@@ -48,10 +48,6 @@ Kamu mulai packing barang-barang yang perlu dibawa ke ransel atau kopermu. Kamu 
 Selama kamu melakukan tahap execution, kamu perlu juga memasuki tahap control. Sesekali kamu perlu memeriksa apakah semua yang direncanakan sudah terlaksana dan ketika diperjalanan sesekali cek sudah sampai di mana dan masih berapa jauh lagi. 
 
 Sepanjang perjalanan, pastikan bahwa kamu berada di arah yang benar. Semisalnya ketika perjalanan kamu dari rumah ke bandara ternyata salah jalan, kamu harus berbalik atau mencari cara lain untuk kembali ke jalan yang menuju tujuanmu.
-
-<blockquote>
-<b>Baca Juga: <a href="https://galih2d.github.io/2021/05/29/poin-penting-dari-buku-sebuah-seni-untuk-bersikap-bodo-amat.html">8 Poin Penting dari Buku Sebuah Seni untuk Bersikap Bodo Amat</a></b>
-</blockquote>
 
 <h2>Sekarang Coba Kita Ganti...</h2>
 

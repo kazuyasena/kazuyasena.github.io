@@ -2,7 +2,7 @@
 layout: post
 title:  "Lintas Jurusan: Iya atau Nggak?"
 date:   2021-05-22 07:15:29 +0700
-author: Galih Yudhasena
+author: Sena
 ---
 “Di SMA aku penjurusannya IPA, tapi aku kepengen banget masuk jurusan IPS kayak Hubungan Internasional. Bisa nggak ya, min?”
 

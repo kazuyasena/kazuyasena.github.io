@@ -2,7 +2,7 @@
 layout: post
 title:  "8 Kesalahan Content Creator Instagram yang Wajib Dihindari"
 date:   2020-02-02 18:15:29 +0700
-author: Galih Yudhasena
+author: Sena
 ---
 Akibat tren microblogging, content creator Instagram mulai bermunculan saat ini. Tentunya mereka membuat akun Instagram untuk mendapatkan penghasilan atau sekadar membangun personal brand.
 
@@ -12,8 +12,6 @@ Kok bisa?
 Menurut saya, ada 8 kesalahan yang wajib kita hindari bila ingin menjadi seorang content creator sukses di Instagram. Apa saja kesalahan-kesalahan tersebut?
 
 <h2>8 Kesalahan Content Creator Instagram</h2>
-
-<img src="https://drive.google.com/uc?export=view&id=1mGUJVkj15jhRFEPqQeCsmWiJjNhr_FKl" alt="8 Kesalahan Content Creator Instagram">
 
 <h3>1. Nggak konsisten posting konten</h3>
 

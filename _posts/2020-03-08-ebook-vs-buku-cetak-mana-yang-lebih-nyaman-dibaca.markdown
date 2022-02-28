@@ -2,7 +2,7 @@
 layout: post
 title:  "Ebook vs Buku Cetak, Mana yang Lebih Baik?"
 date:   2020-05-08 18:15:29 +0700
-author: Galih Yudhasena
+author: Sena
 ---
 Kalau diperhatikan, sekarang ini buku-buku yang sering kita temui di toko retail sudah banyak beredar dalam bentuk digitalnya ya.
 
@@ -91,13 +91,13 @@ Setelah mencoba keduanya, sampai saat ini saya lebih memilih buku cetak.
 
 Kenapa?
 
-Pertama, karena saya belum pernah mencoba ebook reader Amazon Kindle. Saat ini saya sedang menabung untuk bisa membelinya suatu saat nanti.
+Pertama, karena saya belum pernah mencoba ebook reader Amazon Kindle. Saat ini saya sedang menabung untuk bisa membelinya(I will... someday...).
 
 Teman-teman saya di kuliah dan beberapa reviewer buku di luar sana menyarankan untuk membaca menggunakan Amazon Kindle karena lebih nyaman di mata, seperti baca buku dan juga mudah dibawa kemana-mana.
 
 Amazon Kindle berbeda dengan layar ponsel karena alat tersebut tidak memancarkan cahaya biru.
 
-Dan yang kedua, karena seharian saya sudah lelah menatap layar laptop. Tugas kuliah, menulis, desain, menonton Youtube, semua dilakukan di depan layar ponsel maupun laptop.
+Dan yang kedua, karena seharian saya sudah lelah menatap layar. Tugas kuliah, menulis, desain, menonton Youtube, semua dilakukan di depan layar ponsel maupun laptop.
 
 Maka saat malam tiba, sebelum tidur saya lebih nyaman membaca buku.
 
